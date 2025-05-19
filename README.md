@@ -1,9 +1,5 @@
 # litvin-biography_
 index.html
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8" />
   <title>Биография Лилии Сергеевны Литвин</title>
   <style>
     body {
