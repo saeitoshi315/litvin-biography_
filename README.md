@@ -1,30 +1,5 @@
 # litvin-biography_
 index.html
-  <title>Биография Лилии Сергеевны Литвин</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 700px;
-      margin: 30px auto;
-      padding: 0 15px;
-      line-height: 1.6;
-      background: #f9f9f9;
-      color: #333;
-    }
-    h1 {
-      text-align: center;
-      margin-bottom: 30px;
-    }
-    h2 {
-      margin-top: 30px;
-      color: #2c3e50;
-    }
-    p {
-      margin: 10px 0;
-    }
-  </style>
-</head>
-<body>
   <h1>Лилия Сергеевна Литвин</h1>
   <h2>Биография</h2>
 
